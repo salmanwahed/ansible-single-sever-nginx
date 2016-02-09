@@ -1,0 +1,1 @@
+server ansible_ssh_host=ip.address.of.machine ansible_ssh_port=22

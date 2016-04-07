@@ -8,6 +8,6 @@ configured machine: Ubuntu 14.04
 
 To run the playbook, Issue the command:
 ```
-ansible-playbook --ask-pass shopjesterdev.yml
+ansible-playbook --ask-pass myserver.yml
 ```
 
